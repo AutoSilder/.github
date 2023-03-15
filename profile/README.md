@@ -11,6 +11,6 @@
 - 프로젝트 명 : AutoSilder
 - 기반 아이디어 : 서울시 데이터 기반 및 개인 이동 데이터를 결합한 개인 패턴(습관)분석 및 잉여자원 재활용 공유 서비스
 - logo : <br>
-![P-removebg-preview](https://user-images.githubusercontent.com/102719063/224670586-57c17897-581f-42f6-ac60-362af6320ac5.png)
+![AutoSilder](https://user-images.githubusercontent.com/102719063/225289570-0a4aae52-a55b-4877-8907-fad34d383159.png)
 
 

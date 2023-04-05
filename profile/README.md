@@ -9,8 +9,10 @@
 
 ## Project
 - 프로젝트 명 : AutoSlider
-- 기반 아이디어 : 강의 및 교육 영상의 음성의 텍스트화 및 맥락단 분리
+- 기반 아이디어 : 강의 및 교육 영상의 음성의 텍스트화 및 요약 서비스
 - logo : <br>
 ![AutoSilder](https://user-images.githubusercontent.com/102719063/225289570-0a4aae52-a55b-4877-8907-fad34d383159.png)
 
+## Codes
+실질 코드 경로 : ![통합본](https://github.com/AutoSlider/total) 에서 확인하실 수 있습니다.
 
